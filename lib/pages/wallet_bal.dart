@@ -615,7 +615,7 @@ class _WalletBalanceState extends State<WalletBalance> {
                             ),
                           ),
                         ),
-                        SizedBox(height: 20),
+                        SizedBox(height: 30),
                       ],
                     ),
                   ),
